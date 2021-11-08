@@ -1,0 +1,27 @@
+body {
+    background-color: #8D2339;
+    color: #472A3E;
+    font-family: "Mohave", sans-serif;
+    
+}
+
+h1 {
+    text-align: center;
+    border: 3px solid #E9A739;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px solid #E9A739;
+}
+
+h2 {
+    display: inline;
+    border: 3px solid #C32F2F;
+}
+
+
+
